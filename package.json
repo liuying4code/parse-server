@@ -14,7 +14,8 @@
     "views/",
     "LICENSE",
     "PATENTS",
-    "README.md"
+    "README.md",
+    "index.d.ts"
   ],
   "license": "BSD-3-Clause",
   "dependencies": {
